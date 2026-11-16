@@ -1,0 +1,31 @@
+
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+xcuserdata/
+
+# Swift Package Manager
+.build/
+
+# CocoaPods
+Pods/
+
+# Sensitive files
+.env
+.env.*
+*.p12
+*.mobileprovision
+
+# Temporary files
+*.swp
+*.tmp
