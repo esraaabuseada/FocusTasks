@@ -12,6 +12,7 @@
   },
   "files": [
     { "kind": "folder", "path": "FocusTasks", "target-membership": [ "FocusTasks" ] },
+    { "kind": "group", "path": "FocusTasksTests" },
     {
       "kind": "group",
       "name": "Products",
